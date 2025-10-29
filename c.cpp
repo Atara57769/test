@@ -1,10 +1,10 @@
 bool isSame(int x,int y){
     return x!=y;
 }
-bool isZero(int x){
-    return x==0;
+bool isNgitive(int x){
+    return x<0;
 }
 
-void main(){
-
+int main(){
+return 0;
 }
