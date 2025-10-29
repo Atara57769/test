@@ -5,6 +5,6 @@ bool isZero(int x){
     return x==0;
 }
 
-int main(){
+void main(){
 
 }
