@@ -6,5 +6,5 @@ bool isNgitive(int x){
 }
 
 int main(){
-
+return 0;
 }
